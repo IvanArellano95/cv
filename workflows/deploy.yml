@@ -1,0 +1,14 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: "master" # Automatic build on master changes
+  workflow_dispatch: # If you want to be able to build it manually from any branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ivancea/jekyll-mac-renderer@v1 # Change this to the latest version
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
