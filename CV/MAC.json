@@ -1,0 +1,196 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Daniel Iván",
+      "surnames": "Arellano Marcos",
+      "title": "Máster en Desarrollo de Software y Negocio Digital",
+      "description": "Soy una persona que le gustan múltiples áreas. Empecé en el desarrollo, y continue por la rama de administración de empresas por un máster dual que lo integraba en este.\nSuelo dedicar parte de mi tiempo al desarrollo de videojuegos.",
+      "avatar": {
+        "alt": "Foto.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/23/c07115c2-b4ae-47a6-aa15-7b96e6062f5f_foto.png"
+      },
+      "location": {
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "La Coruña",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/daniel-ivan-arellano-marcos/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "imaxin|software "
+        },
+        "roles": [
+          {
+            "name": "QA",
+            "startDate": "2022-02-01",
+            "finishDate": "2022-08-31",
+            "challenges": [
+              {
+                "description": "Proyectos:\n- Instalación y mantenimiento de una wiki en Ubuntu.\n- Testeo de proyectos de lenguaje natural y traducción.\nResponsabilidades:\n- Instalación y mantenimiento de la wiki.\n- Controlar que se cumplieran los estandares de calidad.\nHerramientas:\n- Testlink."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Banco Santander "
+        },
+        "roles": [
+          {
+            "name": "Empleado en prácticas",
+            "startDate": "2020-02-01",
+            "finishDate": "2020-03-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GESRUTA "
+        },
+        "roles": [
+          {
+            "name": "Desarrollador de aplicaciones para móviles",
+            "startDate": "2016-04-01",
+            "finishDate": "2016-07-31",
+            "challenges": [
+              {
+                "description": "Proyectos:\n- Creación de una app para Android sobre camiones.\nResponsabilidades:\n- Comprobar que la app cumplía con todos los requisitos legales.\n- Migrar el código escrito en FoxPro a Android.\nHerramientas:\n- Android, SQLite"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "French",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Galician",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Eclipse",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TestLink",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/daniel-ivan-arellano-marcos/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
